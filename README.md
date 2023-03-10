@@ -1,1 +1,0 @@
-# thelogicview.github.io
