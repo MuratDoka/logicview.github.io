@@ -1,1 +1,1 @@
-# logicview.github.io
+# thelogicview.github.io

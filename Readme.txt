@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: ComingSoon
-Template URL: https://bootstrapmade.com/comingsoon-free-html-bootstrap-template/
+Template Name: WeBuild
+Template URL: https://bootstrapmade.com/free-bootstrap-coming-soon-template-countdwon/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
